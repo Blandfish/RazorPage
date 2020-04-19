@@ -34,7 +34,7 @@ ul.movie-list> li {
 .imdb::before {
     content: "IMDB";
     display: block;
-    font-size: 1rem;
+    font-size: 1rem; 
 }
 
 .rotten-tomatoes::before {
