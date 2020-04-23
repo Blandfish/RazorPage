@@ -18,7 +18,7 @@ namespace Movies
         /// <summary>
         /// Gets or sets the MPAA rating of the movie
         /// </summary>
-        public string MPAARating { get; set; }
+        public string[] MPAARating { get; set; }
 
         /// <summary>
         /// Gets or sets the genre of the movie
